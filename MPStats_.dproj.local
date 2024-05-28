@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.764,E:\Programming\Delphi_xe7\projects\marketplace_stats\AppUpdateThread.pas=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.371,E:\Programming\Delphi_xe7\projects\marketplace_stats\PLThread.pas=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit2.dfm=E:\Programming\Delphi_xe7\projects\marketplace_stats\FormModuleInfo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,E:\Programming\Delphi_xe7\projects\marketplace_stats\FormAbout.pas=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.526,E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.dfm=E:\Programming\Delphi_xe7\projects\marketplace_stats\FormPartnerInfo.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.dfm=E:\Programming\Delphi_xe7\projects\marketplace_stats\FormSettings.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.dfm=E:\Programming\Delphi_xe7\projects\marketplace_stats\FormModuleList.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,E:\Programming\Delphi_xe7\projects\marketplace_stats\MLThread.pas=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.635,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit2.pas=E:\Programming\Delphi_xe7\projects\marketplace_stats\FormModuleInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,E:\Programming\Delphi_xe7\projects\marketplace_stats\MPStats.dfm=C:\Users\MyIE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.987,E:\Programming\Delphi_xe7\projects\marketplace_stats\FormAbout.dfm=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,=C:\Users\MyIE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.044,E:\Programming\Delphi_xe7\projects\marketplace_stats\MPStats_.dproj=C:\Users\MyIE\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.227,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.883,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.800,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,E:\Programming\Delphi_xe7\projects\marketplace_stats\MPStats.pas=C:\Users\MyIE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas=E:\Programming\Delphi_xe7\projects\marketplace_stats\FormSettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.526,E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas=E:\Programming\Delphi_xe7\projects\marketplace_stats\FormPartnerInfo.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas=E:\Programming\Delphi_xe7\projects\marketplace_stats\ThreadAll.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.020,=E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,E:\Programming\Delphi_xe7\projects\marketplace_stats\Unit1.pas=E:\Programming\Delphi_xe7\projects\marketplace_stats\FormModuleList.pas</Transaction>
+  </Transactions>
+</BorlandProject>
